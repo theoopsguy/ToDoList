@@ -1,6 +1,7 @@
 # ToDoList
 
 A simple To-Do list app that lets user to add/delete an item to the list, and also create custom lists for different purposes through the URL itself.
+
 The application is live here: https://quiet-reaches-40522.herokuapp.com/
 
 ---
@@ -14,7 +15,7 @@ The application is live here: https://quiet-reaches-40522.herokuapp.com/
 * Mongoose
 ---
 
-After cloning the project, the npm packages can be installed by using the following command:
+After cloning the project, the npm packages can be installed by running the following command through the terminal:
 ```
 npm i
 ```
@@ -24,4 +25,4 @@ A new To-Do list can be created by adding the name of the desired list at the en
 
 > http[]()://localhost:3000/Work
 
-Creates a new list titled Work.
+Creates a new list titled **Work**.
