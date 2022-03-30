@@ -2,8 +2,6 @@
 
 A simple To-Do list app that lets user to add/delete an item to the list, and also create custom lists for different purposes through the URL itself.
 
-The application is live here: https://quiet-reaches-40522.herokuapp.com/
-
 ---
 
 ### Tech used:
